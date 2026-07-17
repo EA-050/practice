@@ -17,3 +17,5 @@ while True:
     else:
         print("you guessed too low try again")
 
+print("this too")
+
